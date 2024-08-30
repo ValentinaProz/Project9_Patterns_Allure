@@ -1,2 +1,4 @@
 
-[![Build status](https://ci.appveyor.com/api/projects/status/8onr3j0vxd1ftlkj/branch/main?svg=true)](https://ci.appveyor.com/project/ValentinaProz/project2-3-ci-patterns/branch/main)
+![Allure Report Overview.PNG](..%2F..%2F..%2FDesktop%2FAllure%20Report%20Overview.PNG)
+
+![Allure Report Suites.PNG](..%2F..%2F..%2FDesktop%2FAllure%20Report%20Suites.PNG)
